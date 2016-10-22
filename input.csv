@@ -1,0 +1,2 @@
+mass, stiffness, damping_coeff, t, dt, x0, v0, F
+5.0, 5, 0.05, 20, 0.1, 0.0, 0.0, 0.0 
