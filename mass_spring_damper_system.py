@@ -56,7 +56,9 @@ class body(object):
         plt.plot(time,displacement)
         plt.plot(time,velocity)
         if(save):
-            plt.savefig("Disp&Vel_vs_time.png")
+            plt.savefig("../output/Disp&Vel_vs_time.png")
+        
+
         
 
         
