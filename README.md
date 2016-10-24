@@ -10,5 +10,6 @@ Range-Kutta RK4 is used for solving second order ode.
 
 To get output :
 	make
-Th clean the output :
+
+To clean the output :
 	make clean 
