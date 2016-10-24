@@ -2,4 +2,13 @@
 
 This project aims to simulate a mass spring system with dampening and under action of some external force.
 
-The project has only started , so it takes a little time to give actual working code.
+The external force is considered constant.
+
+The equation of motion of system second order ode.
+
+Range-Kutta RK4 is used for solving second order ode.
+
+To get output :
+	make
+Th clean the output :
+	make clean 
